@@ -2,6 +2,7 @@
   "name": "swedish-phone-number-formatter",
   "version": "1.0.0",
   "title": "Swedish phone number formatter",
+  "description": "Format swedish phone numbers",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
