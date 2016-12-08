@@ -1,0 +1,15 @@
+{
+  "name": "swedish-phone-number-formatter",
+  "version": "1.0.0",
+  "title": "Swedish phone number formatter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanp/swedish-phone-number-formatter.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "Jonathan Persson <persson.jonathan@gmail.com>",
+  "license": "MIT"
+}
