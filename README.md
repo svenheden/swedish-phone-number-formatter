@@ -24,9 +24,9 @@ format('031123456') // => '031-12 34 56'
 
 ## License
 
-MIT © [Jonathan Persson](https://github.com/jonathanp)
+MIT © [Jonathan Svenheden](https://github.com/svenheden)
 
 [npm-url]: https://npmjs.org/package/swedish-phone-number-formatter
 [npm-image]: https://badge.fury.io/js/swedish-phone-number-formatter.svg
-[travis-image]: https://travis-ci.org/jonathanp/swedish-phone-number-formatter.svg
-[travis-url]: https://travis-ci.org/jonathanp/swedish-phone-number-formatter
+[travis-image]: https://travis-ci.org/svenheden/swedish-phone-number-formatter.svg
+[travis-url]: https://travis-ci.org/svenheden/swedish-phone-number-formatter
