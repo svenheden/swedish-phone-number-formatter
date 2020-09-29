@@ -1,8 +1,7 @@
 /**
  * The specification:
  *
- * https://www.pts.se/sv/Bransch/Telefoni/Nummerfragor/Telefoninummerplanen/Telefoninummerplanens-disposition/
- * http://www.sprakbruk.fi/media/sprakbruk_2009.2_artikel_14.pdf
+ * https://pts.se/sv/bransch/telefoni/nummer-och-adressering/telefoninummerplanen/telefonnummers-struktur/
  */
 
 const subscriberNumberFormats = {
